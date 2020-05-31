@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Fragments web player",
+"productVersion": "0.1",
+"dataUrl": "f631d25769898766ed74225735cfe844.unityweb",
+"wasmCodeUrl": "81aa4945bf399b6784608323c490f3e5.unityweb",
+"wasmFrameworkUrl": "ac4d225e3f032b780ff6c67ffba01dc0.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
